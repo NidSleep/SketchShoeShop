@@ -1,0 +1,66 @@
+Servlet 
+
+## Cart- Qing Yap
+-----------------------------
+1. QuantityIncDecServlet.java
+2. RemoveFromCartServlet.java
+3. CartServlet.java
+
+## Item - Khe Yang
+-----------------------------
+AddItem.java
+
+UpdateItem.java
+
+DeleteItem.java
+
+ViewItem.java
+ItemDetails.java
+SearchItem.java
+SearchPrice.java
+
+GenerateItemReport.java
+LoadInitServlet.java
+
+## Order- Jie Lun
+-----------------------------
+AddOrder.java
+DeleteOrder.java
+InsertOrder.java
+insertOrder2.java
+UpdateOrder.java
+ViewOrder.java
+
+## Login/Register- Soon He
+-----------------------------
+AddStaff.java
+AddUser.java
+DeleteStaff.java
+DeleteStaffList.java
+DeleteUser.java
+DeleteUserList.java
+FindDeleteStaff.java
+FindDeleteUser.java
+FindUpdateStaff.java
+FindUpdateUser.java
+
+Login.java
+LoginHome.java
+LoginStaffHome.java
+Logout.java
+
+SearchStaff.java
+SearchStaffList.java
+SearchUser.java
+SearchUserList.java
+signUpStaffCheck.java
+StaffLogin.java
+StaffLogout.java
+UpdateStaffInfo.java
+UpdateStaffList.java
+UpdateStaInfo.java
+UpdateStaList.java
+UpdateUserInfo.java
+UpdateUserList.java
+UpdUserInfo.java
+UpdUserList.java

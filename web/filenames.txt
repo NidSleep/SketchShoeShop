@@ -1,0 +1,58 @@
+JSP FILES 
+
+## Cart and payment- Qing Yap
+-----------------------------
+cart.jsp
+checkout.jsp
+checkoutSuccess.jsp
+CIMB.jsp
+maybank.jsp
+
+## Item - Khe Yang
+-----------------------------
+1. DisplayItem.jsp
+2. manageItem.jsp
+3. ItemReport.jsp
+4. SearchItem.jsp
+$$ index.jsp
+
+## Order- Jie Lun
+-----------------------------
+MyOrders.jsp
+ordersAction.jsp
+dashboard.jsp
+
+## Login/Register- Soon He
+-----------------------------
+login.jsp (login and signUp)
+userLogin.jsp
+StaffSignUp.jsp	signUpConfirm.jsp
+StaffLogin.jsp
+
+DeleteStaff.jsp
+DeleteStaffConfirm.jsp
+DeleteStaffConfirmation.jsp
+DeleteUser.jsp
+
+Display.jsp
+DisplayStaff.jsp
+SearchStaff.jsp
+SearchUser.jsp
+
+UpdateConfirm.jsp
+UpdateConfirmation.jsp
+
+
+UpdateStaffInfo.jsp 	UpdateStaffConfirm.jsp
+UpdateStaInfo.jsp		UpdateStaConfirm.jsp 	UpdateStaConfirmation.jsp
+UpdateUserInfo.jsp 	UpdUserConfirm.jsp
+UpdUserInfo.jsp
+
+
+
+## Include FILES
+-----------------------------
+AdminStaffNavBar.jsp
+UserNavBar.jsp
+GuestNavBar.jsp
+footer.jsp
